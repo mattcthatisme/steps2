@@ -1,0 +1,3 @@
+sudo wpa_supplicant -B -i wlp3s0 -c /etc/wpa_supplicant/wpa_supplicant.conf -D wext
+sleep 3
+sudo dhclient wlp3s0

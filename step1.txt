@@ -1,0 +1,3 @@
+apt install sudo bc ed console-setup-linux sharutils ssh bzip2 rcconf unzip unrar zip pciutils usbutils tcl yasm nfs-common alsa-utils alsa-oss mpg123 wget
+update-pciids
+update-usbids

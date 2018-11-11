@@ -1,0 +1,2 @@
+(Stretch)
+sudo apt install handbrake mediainfo tstools libx264-152 x264 dvd+rw-tools growisofs genisoimage joystick jstest-gtk xinput ffmpeg libavcodec-extra57 libavdevice57 libavfilter6 libavformat57 libavresample3 libavutil55 libpostproc54 libswresample2 libswscale4 gupnp-dlna-tools winff lightdm lightdm-gtk-greeter beneath-a-steel-sky drascula drascula-music flight-of-the-amazon-queen lure-of-the-temptress scummvm dosbox wine winetricks eject playonlinux ttf-mscorefonts-installer transmission-gtk wicd-gtk xpdf

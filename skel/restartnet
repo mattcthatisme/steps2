@@ -1,0 +1,3 @@
+sudo dhcpcd -k wlp3s0
+sleep 1
+sudo dhcpcd wlp3s0
